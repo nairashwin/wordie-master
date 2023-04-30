@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.item {
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=wordie-masters.css.map */
